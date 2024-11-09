@@ -1,2 +1,2 @@
 # git-example
-Hello
+Hello from new branch
